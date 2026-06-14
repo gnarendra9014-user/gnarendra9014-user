@@ -184,7 +184,6 @@ Delivered a suite of four production machine learning pipelines spanning the ful
 
 | Recognition | Details |
 |-------------|---------|
-| 🏆 **LeetCode — 200+ Problems Solved** | Arrays · Strings · Dynamic Programming · Data Structures · Algorithmic Debugging |
 | 🎖️ **HackerRank Software Engineer Intern Certified** | Industry-standard Python & problem-solving proficiency validated |
 | 📈 **Academic Excellence Under Load** | CGPA 9.0 maintained (Sem 4: 9.43) while concurrently delivering internship ML projects and independent research |
 | 🔬 **Real-World ML Validation** | ATS platform validated across 50+ live users · CV system validated on real-world uncontrolled video inputs |
