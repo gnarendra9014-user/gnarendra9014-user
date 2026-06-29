@@ -189,19 +189,19 @@ RecognitionDetails🎖️ HackerRank Software Engineer Intern CertifiedIndustry-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnarendra9014&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" height="180" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnarendra9014&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b5cf6" />
+  <img src="https://streak-stats.demolab.com/?user=gnarendra9014&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b5cf6&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
 </p>
 
 ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gnarendra9014&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gnarendra9014&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnarendra9014&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=6d28d9&area=true&area_color=4c1d95&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnarendra9014&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=6d28d9&area=true&area_color=4c1d95&hide_border=true&custom_title=G.Narendra%27s%20Contribution%20Graph" width="95%" />
 </p>
 
 ◈ Contribution Snake
