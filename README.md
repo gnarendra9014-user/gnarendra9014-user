@@ -282,40 +282,6 @@ Delivered a suite of four production machine learning pipelines spanning the ful
 
 ---
 
-## ◈ Contribution Snake
-
-> ⚙️ **Setup required:** To activate the snake animation, create the file `.github/workflows/snake.yml` in this repo with the content below, then enable **Actions** in your repo settings. The snake SVG will auto-generate within minutes.
-
-<details>
-<summary><strong>📋 Click to copy snake.yml workflow</strong></summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 </details>
 
 <p align="center">
