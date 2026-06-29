@@ -126,96 +126,9 @@ Leverages structured prompt engineering and LLM API output parsing for adaptive 
 
 ---
 
-<details>
-<summary><strong>🔍 Fraud Detection Pipeline — RD Infro Technology</strong></summary>
-
-<br>
-
-Production-grade fraud detection ML pipeline achieving 92% classification accuracy. Built as part of a professional internship engagement, the system was delivered alongside three additional pipelines covering movie ratings prediction, sales forecasting, and Titanic survival classification.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python · Scikit-learn · Pandas · NumPy · GitHub CI/CD |
-| **Accuracy** | 92% fraud detection |
-| **Scope** | 4 end-to-end ML pipelines across classification, regression, anomaly detection, and forecasting |
-| **Output** | Structured CSV / JSON with version-controlled pipeline code |
-| **Context** | Professional internship delivery — RD Infro Technology |
-
-</details>
-
 ---
 
-## ◈ Experience
 
-### Data Science Intern · RD Infro Technology
-**Jan 2025 – Mar 2025 · Bengaluru, India**
-
-Delivered a suite of four production machine learning pipelines spanning the full spectrum of supervised and unsupervised learning paradigms. Each pipeline was engineered with structured output generation, robust error handling, and CI/CD-ready GitHub version control.
-
-- Architected a fraud detection classifier achieving **92% accuracy** over imbalanced financial transaction data
-- Developed movie ratings prediction and Titanic survival classification systems using ensemble and logistic methods
-- Built a time-series sales forecasting pipeline with feature engineering and trend decomposition
-- Maintained version-controlled pipeline code on GitHub with CI/CD best practices and structured CSV/JSON output generation
-
-`Python` `Scikit-learn` `TensorFlow` `Pandas` `NumPy` `CI/CD` `GitHub` `JSON` `CSV` `Anomaly Detection` `Time-Series`
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🎖️ **HackerRank Software Engineer Intern Certified** | Industry-standard Python & problem-solving proficiency validated |
-| 📈 **Academic Excellence Under Load** | CGPA 9.0 maintained (Sem 4: 9.43) while concurrently delivering internship ML projects and independent research |
-| 🔬 **Real-World ML Validation** | ATS platform validated across 50+ live users · CV system validated on real-world uncontrolled video inputs |
-
-</div>
-
----
-
-## ◈ Certifications
-
-<p align="center">
-  <strong>AWS</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Foundations_of_Prompt_Engineering-AWS_Training_%26_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <br><sub>Mar 2026</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Udemy</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Complete_Python_Bootcamp:_Zero_to_Hero-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
-  <br><sub>Feb 2026</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>HackerRank</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer_Intern_Certification-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <br><sub>Feb 2026</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Industry</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Science_Internship_Completion-RD_Infro_Technology-6d28d9?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <br><sub>Mar 2025</sub>
-</p>
-
----
 
 ## ◈ Coding Profiles
 
@@ -273,32 +186,6 @@ Delivered a suite of four production machine learning pipelines spanning the ful
 
 ---
 
-## ◈ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "Advanced LLM fine-tuning and RLHF pipelines"
-    - "MLOps — model monitoring, drift detection, and retraining loops"
-    - "Distributed training with multi-GPU setups"
-    - "System design for large-scale ML inference"
-
-  building:
-    - "AI Car — expanding road damage detection to multi-class semantic segmentation"
-    - "Agentic AI resume coaching platform with real-time LLM feedback loops"
-    - "Open-source ML pipeline toolkit for structured output generation"
-
-  exploring:
-    - "Retrieval-Augmented Generation (RAG) for domain-specific QA"
-    - "Quantization and model compression for edge deployment"
-    - "Vector databases — Pinecone, Weaviate, ChromaDB"
-
-  open_to:
-    - "1-Year Data Science / ML Engineering Internships"
-    - "AI Research Collaborations"
-    - "Open Source ML Project Contributions"
-    - "Technical mentorship and peer learning"
-```
 
 ---
 
