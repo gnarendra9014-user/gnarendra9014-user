@@ -80,23 +80,6 @@ I approach every problem as a product engineer first: understanding the business
 <p align="center"><sub><strong>DevOps & Tooling</strong></sub></p>
 
 ---
-
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Machine Learning** | ████████████ Expert | Classification, Regression, Anomaly Detection, Ensemble Methods |
-| **Deep Learning** | ███████████░ Advanced | CNNs, RNNs, Transformers, Model Pruning, Inference Optimization |
-| **Computer Vision** | ███████████░ Advanced | Real-time Object Detection, Lane Detection, OpenCV Pipelines |
-| **NLP** | ██████████░░ Proficient | HuggingFace Transformers, LLM APIs, Prompt Engineering, ATS Parsing |
-| **Time-Series Forecasting** | ██████████░░ Proficient | Sales Forecasting, Trend Decomposition, Feature Engineering |
-| **MLOps & Pipelines** | █████████░░░ Proficient | CI/CD for ML, Structured Output (JSON/CSV), GitHub Versioning |
-| **Mathematics** | ██████████░░ Proficient | Statistics, Linear Algebra, Probability, Hypothesis Testing |
-
-</div>
-
 ---
 
 ## ◈ Featured Projects
