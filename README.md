@@ -25,14 +25,14 @@
   <a href="https://linkedin.com/in/guttinarendra8b817b357">
     <img src="https://img.shields.io/badge/LinkedIn-Gutti_Narendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/gnarendra9014">
-    <img src="https://img.shields.io/badge/GitHub-gnarendra9014-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/gnarendra9014-user">
+    <img src="https://img.shields.io/badge/GitHub-gnarendra9014-user181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gnarendra9014&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/gnarendra9014?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=gnarendra9014-user&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/gnarendra9014-user?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github" />
 </p>
 
 ---
@@ -256,12 +256,12 @@ Delivered a suite of four production machine learning pipelines spanning the ful
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnarendra9014&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnarendra9014&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gnarendra9014-user&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnarendra9014-user&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gnarendra9014&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b5cf6&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=gnarendra9014-user&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b5cf6&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
 </p>
 
 ---
@@ -269,7 +269,7 @@ Delivered a suite of four production machine learning pipelines spanning the ful
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gnarendra9014&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gnarendra9014-user&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -277,7 +277,7 @@ Delivered a suite of four production machine learning pipelines spanning the ful
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnarendra9014&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=6d28d9&area=true&area_color=4c1d95&hide_border=true&custom_title=G.Narendra%27s%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnarendra9014-user&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=6d28d9&area=true&area_color=4c1d95&hide_border=true&custom_title=G.Narendra%27s%20Contribution%20Graph" width="95%" />
 </p>
 
 ---
@@ -319,7 +319,7 @@ jobs:
 </details>
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/gnarendra9014/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/gnarendra9014-user/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg />
+  <img src="https://raw.githubusercontent.com/gnarendra9014-user/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -366,8 +366,8 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/gnarendra9014">
-    <img src="https://img.shields.io/badge/GitHub-Follow_@gnarendra9014-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/gnarendra9014-user">
+    <img src="https://img.shields.io/badge/GitHub-Follow_@gnarendra9014-user181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
