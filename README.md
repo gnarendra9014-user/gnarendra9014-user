@@ -319,7 +319,7 @@ jobs:
 </details>
 
 <p align="center">
-  <img src=["https://raw.githubusercontent.com/gnarendra9014/gnarendra9014/output/github-contribution-grid-snake-dark.svg"](https://raw.githubusercontent.com/gnarendra9014/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg) />
+  <img src=https://raw.githubusercontent.com/gnarendra9014/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg />
 </p>
 
 ---
