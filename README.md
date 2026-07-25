@@ -1,218 +1,166 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=header&text=&animation=fadeIn" width="100%" />
+<div align="center">
+
+# Hi 👋, I'm Gutti Narendra
+
+### 💻 Pre-Final Year B.Tech CSE (Data Science) Student | AI & Software Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Open+Source+Learner;Building+Projects+That+Solve+Real+Problems" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Gutti+Narendra;Data+Science+%26+ML+Engineer;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Building+Scalable+AI+Systems" alt="Typing SVG" />
-  </a>
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 Pre-Final Year B.Tech CSE (Data Science)
+
+🏫 Jain Deemed-to-be University, Bengaluru
+
+💡 Passionate about
+
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Data Structures & Algorithms
+- Open Source
+
+🌱 Currently Learning
+
+- Advanced DSA
+- System Design
+- Backend Development
+- Cloud Technologies
+
+🎯 Goal
+
+Become a Software Engineer at a top product-based company.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,sql" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(Data_Science)-Jain_University-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-9.0_%2F_10-7c3aed?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graduating-2027-8b5cf6?style=for-the-badge&logo=calendar&logoColor=white" />
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Bengaluru,_India-1e1b4b?style=for-the-badge&logoColor=white" />
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-<p align="center">
-  <a href="mailto:gnarendra9014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gnarendra9014-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/guttinarendra8b817b357">
-    <img src="https://img.shields.io/badge/LinkedIn-Gutti_Narendra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/gnarendra9014-user">
-    <img src="https://img.shields.io/badge/GitHub-gnarendra9014-user181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Tools
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gnarendra9014-user&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/gnarendra9014-user?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## ◈ About
+# 📌 Featured Projects
 
-<p align="left">
-Pre-final year B.Tech CSE (Data Science) student with a <strong>CGPA of 9.0</strong> and a demonstrated track record of delivering production-grade machine learning systems. I architect end-to-end ML pipelines across classification, regression, anomaly detection, and time-series forecasting, and I am deeply invested in the intersection of computer vision, NLP, and scalable AI infrastructure.
+## 🚗 AI Car – Real-Time Road & Lane Damage Detection
 
-My engineering philosophy centers on building systems that are not only accurate but measurable, maintainable, and deployable — from structured output pipelines and model optimization to CI/CD-driven ML workflows. I have shipped real products that have been validated against real-world data, not just academic benchmarks.
+- Computer Vision
+- TensorFlow
+- OpenCV
+- Keras
+- Python
 
-I approach every problem as a product engineer first: understanding the business requirement, defining the technical constraint, and then choosing the model architecture and infrastructure that best serves both.
-</p>
-
-**Open To:**
-`1-Year Data Science Internships` · `ML Engineering Roles` · `AI Research Collaborations` · `Open Source Contributions`
-
----
-
-## ◈ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql&theme=dark&perline=8" />
-</p>
-<p align="center"><sub><strong>Languages</strong></sub></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" />
-</p>
-<p align="center"><sub><strong>ML / AI Frameworks</strong></sub></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,flask,fastapi&theme=dark&perline=8" />
-</p>
-<p align="center"><sub><strong>Backend & APIs</strong></sub></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=8" />
-</p>
-<p align="center"><sub><strong>Databases</strong></sub></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws&theme=dark&perline=8" />
-</p>
-<p align="center"><sub><strong>DevOps & Tooling</strong></sub></p>
-
----
----
-
-## ◈ Featured Projects
-
-<details>
-<summary><strong>🚗 AI Car — Real-Time Road & Lane Damage Detection</strong></summary>
-
-<br>
-
-An end-to-end computer vision system designed for real-world deployment that detects potholes, road surface cracks, and lane deviations from live video feeds. The system processes input at 28 FPS with 91% detection accuracy and is engineered for downstream integration via structured JSON/CSV output.
-
-The architecture prioritizes inference performance — model pruning and batch processing techniques were applied to achieve a 35% reduction in inference latency, making the system viable for embedded and edge deployment scenarios. Built to handle messy, uncontrolled real-world inputs with robust edge-case handling.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python · TensorFlow · Keras · OpenCV · Scikit-learn · Git |
-| **Performance** | 91% detection accuracy · 28 FPS · 35% latency reduction |
-| **Scale** | Real-time live video processing · Edge deployment ready |
-| **Output** | Structured JSON/CSV for downstream model consumption |
-| **Status** | 🟢 Active Development |
-
-</details>
+⭐ Detects potholes, road cracks, and lane deviations in real time.
 
 ---
 
-<details>
-<summary><strong>📄 AI Resume Coach & ATS Analysis Platform</strong></summary>
+## 📄 AI Resume Coach & ATS Analyzer
 
-<br>
+- NLP
+- LLM APIs
+- HuggingFace
+- Streamlit
 
-A full-stack AI-powered platform that parses resumes using NLP pipelines and computes ATS compatibility scores with 85%+ accuracy. The system has been validated across 50+ real users, producing structured JSON/CSV annotations consumable by downstream systems.
-
-Leverages structured prompt engineering and LLM API output parsing for adaptive text generation and personalized coaching feedback. The platform demonstrates applied NLP problem-solving at the intersection of product thinking and ML engineering.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python · Streamlit · LLM APIs · HuggingFace Transformers · NLP · Git |
-| **Performance** | 85%+ ATS scoring accuracy |
-| **Validation** | Tested across 50+ real users |
-| **Output** | Structured JSON/CSV annotations · Adaptive LLM text generation |
-| **Status** | ✅ Shipped — Nov 2025 |
-
-</details>
+⭐ Parses resumes and provides ATS compatibility scores.
 
 ---
 
+# 🏆 Achievements
+
+🏅 300+ DSA Problems Solved
+
+🏅 HackerRank Software Engineer Intern Certification
+
+🏅 CGPA 9.2
+
+🏅 Amazon ML Summer School Participant
+
+🏅 Y Combinator Software Engineering Job Simulation
+
 ---
 
+# 📜 Certifications
 
+✔ HackerRank Software Engineer Intern
 
-## ◈ Coding Profiles
+✔ AWS Prompt Engineering
+
+✔ Udemy Python Bootcamp
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/gnarendra9014">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/gnarendra9014">
-    <img src="https://img.shields.io/badge/HackerRank-Software_Engineer_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/gnarendra9014">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Contributor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/gnarendra9014">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
-## ◈ GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnarendra9014-user&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnarendra9014-user&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&layout=compact&langs_count=8" height="180" />
-</p>
+### 💙 Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gnarendra9014-user&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=7c3aed&fire=a78bfa&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b5cf6&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Happy+Coding!;Always+Learning.;Let's+Build+Something+Awesome!" />
 
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gnarendra9014-user&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnarendra9014-user&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=6d28d9&area=true&area_color=4c1d95&hide_border=true&custom_title=G.Narendra%27s%20Contribution%20Graph" width="95%" />
-</p>
-
----
-
-</details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gnarendra9014-user/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="mailto:gnarendra9014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gnarendra9014@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/guttinarendra8b817b357">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gnarendra9014-user">
-    <img src="https://img.shields.io/badge/GitHub-Follow_@gnarendra9014-user181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Engineering is not about writing code — it is about solving the right problem, in the right way, at the right scale."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=100&section=footer&text=&animation=fadeIn" width="100%" />
-</p>
+</div>
