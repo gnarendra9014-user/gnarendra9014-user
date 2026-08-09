@@ -51,6 +51,6 @@
 
 <div align="center">
 
-*"Opportunities don't happen. You create them."*
+*“Every commit tells a story.”*
 
 </div>
