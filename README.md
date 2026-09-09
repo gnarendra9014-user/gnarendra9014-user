@@ -180,43 +180,6 @@ asynchronous, delayed and recurring jobs.
 
 ---
 
-## 💻 Coding
-
-<div align="center">
-
-### 🧩 300+ LeetCode Problems
-
-<br>
-
-<img src="https://img.shields.io/badge/Data_Structures-FFA116?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem_Solving-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Debugging-E74C3C?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnarendra9014-user&show_icons=true&theme=tokyonight&hide_border=true" width="55%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnarendra9014-user&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
