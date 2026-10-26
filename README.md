@@ -1,259 +1,107 @@
+<!-- Animated line: edit the lines= part of the URL. Use + for spaces and ; between lines. -->
+<h1 align="center">Gutti Narendra</h1>
 
-<div align="center">
+<p align="center"><b>Backend Development, Software Engineering, and SDET</b></p>
 
-# 👋 Hi, I'm Gutti Narendra
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=560&height=40&lines=Building+reliable+backend+systems;Learning+distributed+systems;Solving+DSA+problems;Testing+edge+cases+and+failure+modes" alt="Building reliable backend systems. Learning distributed systems. Solving DSA problems. Testing edge cases and failure modes." />
+</p>
 
-### Software Engineering • Backend Development • SDET
+<p align="center">
+  <a href="https://gutti-narendra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/gnarendra9100"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gnarendra9100@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Building+backend+systems;Learning+distributed+systems;Solving+DSA+problems;Debugging+%26+breaking+things" alt="Typing SVG" />
+## About
 
-<br><br>
+B.Tech Computer Science and Engineering (Data Science) student focused on backend engineering. I build APIs and event-driven services designed to stay correct under concurrency and failure.
 
-<a href="https://gutti-narendra-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+- **Quality engineering:** testing, debugging, reliability, and edge cases
+- **Problem solving:** 300+ problems solved on LeetCode
+- **Hackathon:** Top 5 at Dev Crafts Hackathon
 
-<a href="https://linkedin.com/in/gnarendra9100" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+> I like building things, breaking them on purpose, and figuring out why they broke.
 
-<a href="mailto:gnarendra9100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+## Featured projects
 
-<a href="https://github.com/gnarendra9014-user" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+### Distributed Payment & Wallet System
 
-</div>
+Payment and wallet backend focused on correctness under concurrency and partial failure, implemented two ways: a single service using the transactional outbox pattern, and event-driven microservices coordinated by a saga.
 
----
+- **Idempotent transfers:** SHA-256 payload fingerprinting with Redis and PostgreSQL checks, so a reused key with different details is rejected
+- **Safe concurrency:** ACID transactions with ordered row-level locks to prevent deadlocks
+- **Reliable events:** transactional outbox publishing to Kafka with retries, a dead-letter state, and idempotent consumers
+- **Distributed transactions:** saga orchestration with compensating actions across wallet, payment, and orchestrator services
+- **Tested:** 27 unit and integration tests covering idempotency, refunds, auth guards, and duplicate event delivery
 
-## 👨‍💻 About Me
+`Node.js` `Express` `PostgreSQL` `Redis` `Kafka` `Docker`
 
-- 🎓 B.Tech CSE (Data Science) student
-- 💻 Currently focused on **Backend Development & Software Engineering**
-- ⚙️ I enjoy building **APIs, backend services, and scalable systems**
-- 🧠 Solving **DSA problems** and improving problem-solving skills
-- 🧪 Interested in **testing, debugging, reliability, and edge cases**
-- 🚀 Exploring **Distributed Systems, Kafka, Redis, and System Design**
-- 🏆 300+ problems solved on **LeetCode**
-- 🏅 Top 5 at **Dev Crafts Hackathon**
+Source: [distributed-payment-wallet](https://github.com/gnarendra9014-user/distributed-payment-wallet) (outbox pattern) and [payment-wallet-system](https://github.com/gnarendra9014-user/payment-wallet-system) (saga microservices)
 
-> I like building things, breaking things, and figuring out why they broke.
+### Scalable Job Scheduler
 
-🌐 **Explore my portfolio:** [gutti-narendra-portfolio.vercel.app](https://gutti-narendra-portfolio.vercel.app/)
+Queue-based backend for asynchronous, delayed, and recurring jobs, with retries, failure handling, and queue management.
 
----
+`Node.js` `BullMQ` `Redis` `PostgreSQL`
 
-## 🛠️ Tech Stack
+<!-- Add the repository link here once the scheduler is public: Source: [repo-name](https://github.com/gnarendra9014-user/repo-name) -->
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js" alt="C++, Python, JavaScript"/>
-
-<br><br>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" alt="Node.js, Express, PostgreSQL, MongoDB, Redis"/>
-
-<br><br>
-
-### Systems & Cloud
-
-<img src="https://skillicons.dev/icons?i=kafka,docker,aws,kubernetes" alt="Kafka, Docker, AWS, Kubernetes"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code"/>
-
-</div>
-
----
-
-## 🚀 What I'm Building
-
-<div align="center">
+## Tech stack
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Payment & Wallet System
-
-A backend system focused on payment processing, wallet balances, and transaction management.
-
-**Key areas:**
-- Transaction management
-- Wallet balance consistency
-- Database transactions
-- Event-driven architecture
-
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Scalable Job Scheduler
-
-A queue-based backend system for handling asynchronous, delayed, and recurring jobs.
-
-**Key areas:**
-- Background job processing
-- Job retries and failure handling
-- Delayed and recurring tasks
-- Queue management
-
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/BullMQ-EA4AAA?style=flat-square" alt="BullMQ"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-</td>
-</tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,python,js" alt="C++, Python, JavaScript" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" alt="Node.js, Express, PostgreSQL, MongoDB, Redis" /></td>
+  </tr>
+  <tr>
+    <td><b>Systems &amp; cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,aws" alt="Kafka, Docker, Kubernetes, AWS" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code" /></td>
+  </tr>
 </table>
 
-</div>
+## Currently exploring
+
+- **Backend and APIs:** building and testing reliable REST services
+- **Databases:** PostgreSQL and Redis
+- **Event streaming:** Kafka and asynchronous systems
+- **Distributed systems:** reliability and fault tolerance
+- **System design:** scalable backend architecture
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gnarendra9014-user&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3FB950&sideLabels=8B949E&dates=8B949E&border_radius=6" />
+    <img src="https://streak-stats.demolab.com/?user=gnarendra9014-user&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=656D76&dates=656D76&border_radius=6" width="55%" alt="GitHub contribution streak" />
+  </picture>
+</p>
 
 ---
 
-## 🧠 Currently Learning
+<p align="center">
+  Open to conversations about backend engineering, testing, and distributed systems.<br />
+  <a href="https://gutti-narendra-portfolio.vercel.app/">Portfolio</a> &middot;
+  <a href="https://linkedin.com/in/gnarendra9100">LinkedIn</a> &middot;
+  <a href="mailto:gnarendra9100@gmail.com">Email</a>
+</p>
 
-<div align="center">
+<p align="center"><sub>Code. Debug. Learn. Repeat.</sub></p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,kafka,docker,aws" alt="Backend and cloud technologies"/>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">🌐</td>
-<td><b>Backend Development</b></td>
-<td>Building reliable backend services</td>
-</tr>
-<tr>
-<td align="center">🔗</td>
-<td><b>REST APIs</b></td>
-<td>Designing and testing APIs</td>
-</tr>
-<tr>
-<td align="center">🗄️</td>
-<td><b>Databases</b></td>
-<td>PostgreSQL and Redis</td>
-</tr>
-<tr>
-<td align="center">⚡</td>
-<td><b>Event Streaming</b></td>
-<td>Kafka and asynchronous systems</td>
-</tr>
-<tr>
-<td align="center">🌐</td>
-<td><b>Distributed Systems</b></td>
-<td>Reliability and fault tolerance</td>
-</tr>
-<tr>
-<td align="center">🏗️</td>
-<td><b>System Design</b></td>
-<td>Scalable backend architecture</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://roadmap.sh/backend" target="_blank">
-  <img src="https://img.shields.io/badge/Explore_Backend_Roadmap-2ECC71?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Backend Roadmap"/>
-</a>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gnarendra9014-user&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 My Developer Journey
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td>→</td>
-<td align="center">⚡<br><b>JavaScript</b></td>
-<td>→</td>
-<td align="center">🟢<br><b>Node.js</b></td>
-<td>→</td>
-<td align="center">🗄️<br><b>Databases</b></td>
-<td>→</td>
-<td align="center">📨<br><b>Kafka</b></td>
-<td>→</td>
-<td align="center">🌐<br><b>Distributed Systems</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🧩 What I Enjoy
-
-<div align="center">
-
-| 💻 Building | 🧠 Solving | 🔍 Exploring |
-|:---:|:---:|:---:|
-| Backend Systems | DSA | System Design |
-| REST APIs | LeetCode | Distributed Systems |
-| APIs & Services | Debugging | Event-Driven Architecture |
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gnarendra9014-user/gnarendra9014-user/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Code. Debug. Learn. Repeat.
-
-<br>
-
-<a href="https://gutti-narendra-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-gutti--narendra-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
-</a>
-
-<a href="https://github.com/gnarendra9014-user" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-gnarendra9014--user-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gnarendra9014-user&style=flat-square&color=2ECC71" alt="Profile Views"/>
-
-</div>
+<!--
+Optional: contribution snake. Paste under "GitHub activity" if you want it back.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnarendra9014-user/gnarendra9014-user/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/gnarendra9014-user/gnarendra9014-user/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
+  </picture>
+</p>
+-->
